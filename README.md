@@ -26,8 +26,8 @@ To set up the project locally, follow these steps:
 Create and activate a virtual environment to manage project dependencies:
 
 ```bash
-python3.9 -m venv ../venv
-source ../venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 ```
 
 ### 2. Install Dependencies
